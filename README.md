@@ -40,7 +40,7 @@ The easiest way to authorize your Ubuntu terminal with GitHub is by using the of
   
  2. Run the login wizard:
     
-   **Bash : gh auth login**
+  **Bash : gh auth login**
 
 
 # Follow the interactive prompts:
